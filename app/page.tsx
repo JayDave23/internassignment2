@@ -5,7 +5,7 @@ export default function Home() {
     
 
       <div>
-      <title>User Data</title>
+      <title className="">User Data</title>
       <UserData />
       </div>
   )
